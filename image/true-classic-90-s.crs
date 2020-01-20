@@ -1,0 +1,42 @@
+﻿[Hand]
+Path=American online link select.cur
+
+[Arrow]
+Path=Windows arrow .cur
+
+[IBeam]
+Path=Windows more beam .cur
+
+[Help]
+Path=Help.cur
+
+[SizeAll]
+Path=Move.cur
+
+[Crosshair]
+Path=Crossr.cur
+
+[No]
+Path=No.cur
+
+[NWPen]
+Path=Pen.cur
+
+[SizeNESW]
+Path=Resize.cur
+
+[SizeNS]
+Path=NS.cur
+
+[SizeNWSE]
+Path=Resize 1.cur
+
+[SizeWE]
+Path=H.cur
+
+[UpArrow]
+Path=Up.cur
+
+[AppStarting]
+Path=Working.ani
+
